@@ -6,4 +6,4 @@ $ npm install ethers
 
 $ npm start
 
-Navigate browser to localhost:3000
+Navigate to browser -> localhost:3000
