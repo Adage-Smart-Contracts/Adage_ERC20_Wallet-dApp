@@ -10,6 +10,6 @@ contract Adage_Token is ERC20 {
     }
 
     function decimals() public pure override returns (uint8) {
-        return 18;
+        return 2;
     }
 }
